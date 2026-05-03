@@ -261,11 +261,5 @@ myTable.appendChild(myTableHeaders);
 myTable.appendChild(myTableBody);
 
 myForm.appendChild(myTable);
-//myForm.appendChild(myInputEmail);
-//myForm.appendChild(myInputCountry);
-//myForm.appendChild(myInputPostalCode);
-//myForm.appendChild(myInputPassword1);
-//myForm.appendChild(myInputPassword2);
-//myForm.appendChild(myFormSubmitBtn);
 
 divBody.appendChild(myForm);
